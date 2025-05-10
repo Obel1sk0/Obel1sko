@@ -39,6 +39,15 @@
       "release_date": "2019-04-06",
       "type": "series",
       "seasons": []
+    },
+    {
+      "tmdb_id": 94997,
+      "title": "A Casa do Dragão",
+      "overview": "200 anos antes dos eventos de \"Game of Thrones\", os Targaryen estavam no ápice de seu poder, tendo inúmeros dragões sob seu comando, mas nem tudo dura para sempre. O início do fim da dinastia Targaryen.",
+      "poster_path": "/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg",
+      "release_date": "2022-08-21",
+      "type": "series",
+      "seasons": []
     }
   ]
 }
