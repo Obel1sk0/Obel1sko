@@ -1,1 +1,30 @@
 
+{
+  "movies": [
+    {
+      "tmdbId": 550, // TMDB ID do filme
+      "imdbId": "tt0137523", // IMDB ID do filme
+      "title": "Clube da Luta",
+      "embedUrl": "https://embedder.net/e/tt0137523"
+    }
+  ],
+  "series": [
+    {
+      "tmdbSeriesId": 1399, // TMDB ID da série
+      "imdbSeriesId": "tt0944947", // IMDB ID da série
+      "seriesTitle": "Game of Thrones",
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "episodeTitle": "Winter Is Coming",
+              "embedUrl": "https://embedder.net/e/tt0944947/1/1" 
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
