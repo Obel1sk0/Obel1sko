@@ -21,5 +21,15 @@
       "mp4_link": null
     }
   ],
-  "series": []
+  "series": [
+    {
+      "tmdb_id": 1399,
+      "title": "Game of Thrones",
+      "overview": "Em uma terra onde os verões podem durar vários anos e o inverno toda uma vida, sete nobres famílias lutam pelo controle da mítica terra de Westeros, dividida depois de uma guerra. Num cenário que lembra a Europa medieval, reis, rainhas, cavaleiros e renegados usam todos os meios possíveis em um jogo político pela disputa do Trono de Ferro, o símbolo do poder absoluto.",
+      "poster_path": "/l2ezB41chGDjXcKo24lseuXYtKP.jpg",
+      "release_date": "2011-04-17",
+      "type": "series",
+      "seasons": []
+    }
+  ]
 }
