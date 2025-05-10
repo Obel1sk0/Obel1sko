@@ -1,1 +1,26 @@
-[{"tmdb_id":24428,"imdb_id":"tt0848228","title":"Os Vingadores: The Avengers","overview":"Loki, o irmão de Thor, ganha acesso ao poder ilimitado do cubo cósmico ao roubá-lo de dentro das instalações da S.H.I.E.L.D. Nick Fury, o diretor desta agência internacional que mantém a paz, logo reúne os únicos super-heróis que serão capazes de defender a Terra de ameaças sem precedentes. Homem de Ferro, Capitão América, Hulk, Thor, Viúva Negra e Gavião Arqueiro formam o time dos sonhos de Fury, mas eles precisam aprender a colocar os egos de lado e agir como um grupo em prol da humanidade.","poster_url":"https://image.tmdb.org/t/p/w500/j9hwS307Zlc5mQTbAnwV75vXG0H.jpg","embed_link":"https://embedder.net/e/tt0848228"},{"tmdb_id":299536,"imdb_id":"tt4154756","title":"Vingadores: Guerra Infinita","overview":"Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.","poster_url":"https://image.tmdb.org/t/p/w500/d6jUbQj4E4R5MJlFYfdzANEZbkL.jpg","embed_link":"https://embedder.net/e/tt4154756"}]
+[
+  {
+    "tmdb_id": 24428,
+    "imdb_id": "tt0848228",
+    "title": "Os Vingadores: The Avengers",
+    "overview": "Loki, o irmão de Thor, ganha acesso ao poder ilimitado do cubo cósmico ao roubá-lo de dentro das instalações da S.H.I.E.L.D. Nick Fury, o diretor desta agência internacional que mantém a paz, logo reúne os únicos super-heróis que serão capazes de defender a Terra de ameaças sem precedentes. Homem de Ferro, Capitão América, Hulk, Thor, Viúva Negra e Gavião Arqueiro formam o time dos sonhos de Fury, mas eles precisam aprender a colocar os egos de lado e agir como um grupo em prol da humanidade.",
+    "poster_url": "https://image.tmdb.org/t/p/w500/j9hwS307Zlc5mQTbAnwV75vXG0H.jpg",
+    "embed_link": "https://embedder.net/e/tt0848228"
+  },
+  {
+    "tmdb_id": 299536,
+    "imdb_id": "tt4154756",
+    "title": "Vingadores: Guerra Infinita",
+    "overview": "Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.",
+    "poster_url": "https://image.tmdb.org/t/p/w500/d6jUbQj4E4R5MJlFYfdzANEZbkL.jpg",
+    "embed_link": "https://embedder.net/e/tt4154756"
+  },
+  {
+    "tmdb_id": 1726,
+    "imdb_id": "tt0371746",
+    "title": "Homem de Ferro",
+    "overview": "Tony Stark é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de então ele passa a usá-la para combater o crime, sob o alter ego do Homem de Ferro.",
+    "poster_url": "https://image.tmdb.org/t/p/w500/adSJ0DpgOsMwrpUH78cZpLGOOAk.jpg",
+    "embed_link": "https://embedder.net/e/tt0371746"
+  }
+]
