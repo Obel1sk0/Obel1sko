@@ -3,6 +3,13 @@
   "series": [],
   "tv_channels": [
     {
+      "id": "1746903726605",
+      "name": "espn",
+      "logo_url": "https://images.seeklogo.com/logo-png/34/2/lion-leao-logo-png_seeklogo-344756.png",
+      "embed_link": null,
+      "mp4_link": "https://play.betteranime.net/playlist/S/p86taRAbyz/TDh1cwlvmZ/d6v5JokVG8/mMbFDgUwrT/mMbFDgUwrT.m3u8"
+    },
+    {
       "id": "1746903292875",
       "name": "globo",
       "logo_url": "https://images.seeklogo.com/logo-png/32/1/globo-logo-png_seeklogo-325072.png",
