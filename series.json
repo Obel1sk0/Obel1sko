@@ -963,5 +963,204 @@
     ],
     "first_air_date_str": "2008-01-20",
     "tmdb_status": "Ended"
+  },
+  {
+    "tmdb_id": 103768,
+    "name": "Sweet Tooth",
+    "image_path": "/rgMfhcrVZjuy5b7Pn0KzCRCEnMX.jpg",
+    "synopsis": "Nessa aventura épica em um mundo pós-apocalíptico, um adorável menino-cervo procura uma família e um lar na companhia de um amigo rabugento.",
+    "seasons": [
+      {
+        "season_number": 1,
+        "name": "Temporada 1",
+        "episodes": [
+          {
+            "episode_number": 1,
+            "name": "Saindo da Mata",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2021-06-04"
+          },
+          {
+            "episode_number": 2,
+            "name": "Foi Mal por Todos os Mortos",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2021-06-04"
+          },
+          {
+            "episode_number": 3,
+            "name": "Esquisitice de Cervo",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2021-06-04"
+          },
+          {
+            "episode_number": 4,
+            "name": "O Molho Secreto",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2021-06-04"
+          },
+          {
+            "episode_number": 5,
+            "name": "O Que Tem no Freezer?",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2021-06-04"
+          },
+          {
+            "episode_number": 6,
+            "name": "Algo Estranho no Trem",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2021-06-04"
+          },
+          {
+            "episode_number": 7,
+            "name": "Quando Eles Se Conheceram",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2021-06-04"
+          },
+          {
+            "episode_number": 8,
+            "name": "Grandão",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2021-06-04"
+          }
+        ],
+        "air_date_str": "2021-06-04"
+      },
+      {
+        "season_number": 2,
+        "name": "Temporada 2",
+        "episodes": [
+          {
+            "episode_number": 1,
+            "name": "Cativeiro",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2023-04-27"
+          },
+          {
+            "episode_number": 2,
+            "name": "Entrando na mata",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2023-04-27"
+          },
+          {
+            "episode_number": 3,
+            "name": "O ovo ou a galinha?",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2023-04-27"
+          },
+          {
+            "episode_number": 4,
+            "name": "Homem mau",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2023-04-27"
+          },
+          {
+            "episode_number": 5,
+            "name": "O que é preciso",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2023-04-27"
+          },
+          {
+            "episode_number": 6,
+            "name": "Início de um sonho, deu tudo certo",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2023-04-27"
+          },
+          {
+            "episode_number": 7,
+            "name": "Vou te encontrar",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2023-04-27"
+          },
+          {
+            "episode_number": 8,
+            "name": "A balada dos Últimos Homens",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2023-04-27"
+          }
+        ],
+        "air_date_str": "2023-04-27"
+      },
+      {
+        "season_number": 3,
+        "name": "Temporada 3",
+        "episodes": [
+          {
+            "episode_number": 1,
+            "name": "O começo também é o fim",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2024-06-06"
+          },
+          {
+            "episode_number": 2,
+            "name": "Garoto do interior",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2024-06-06"
+          },
+          {
+            "episode_number": 3,
+            "name": "A matilha",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2024-06-06"
+          },
+          {
+            "episode_number": 4,
+            "name": "Navio fantasma",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2024-06-06"
+          },
+          {
+            "episode_number": 5,
+            "name": "Coração delator",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2024-06-06"
+          },
+          {
+            "episode_number": 6,
+            "name": "Tem monstros aqui",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2024-06-06"
+          },
+          {
+            "episode_number": 7,
+            "name": "O fim da estrada",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2024-06-06"
+          },
+          {
+            "episode_number": 8,
+            "name": "Esta é uma história",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2024-06-06"
+          }
+        ],
+        "air_date_str": "2024-06-06"
+      }
+    ],
+    "first_air_date_str": "2021-06-04",
+    "tmdb_status": "Ended"
   }
 ]
