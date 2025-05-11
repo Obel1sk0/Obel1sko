@@ -18,5 +18,15 @@
     "mp4_link": null,
     "release_date_str": "2010-04-28",
     "tmdb_status": null
+  },
+  {
+    "tmdb_id": 1726,
+    "name": "Homem de Ferro",
+    "image_path": "/adSJ0DpgOsMwrpUH78cZpLGOOAk.jpg",
+    "synopsis": "Tony Stark é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de então ele passa a usá-la para combater o crime, sob o alter ego do Homem de Ferro.",
+    "embed_link": null,
+    "mp4_link": null,
+    "release_date_str": "2008-04-30",
+    "tmdb_status": null
   }
 ]
