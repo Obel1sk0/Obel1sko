@@ -1,1 +1,84 @@
-
+[
+  {
+    "tmdb_id": 85937,
+    "name": "Demon Slayer: Kimetsu no Yaiba",
+    "image_path": "/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
+    "synopsis": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.",
+    "seasons": [
+      {
+        "season_number": 0,
+        "name": "Specials",
+        "episodes": []
+      },
+      {
+        "season_number": 1,
+        "name": "Tanjiro Kamado, Unwavering Resolve",
+        "episodes": []
+      },
+      {
+        "season_number": 2,
+        "name": "Mugen Train",
+        "episodes": []
+      },
+      {
+        "season_number": 3,
+        "name": "Entertainment District",
+        "episodes": []
+      },
+      {
+        "season_number": 4,
+        "name": "Swordsmith Village",
+        "episodes": []
+      },
+      {
+        "season_number": 5,
+        "name": "Hashira Training",
+        "episodes": []
+      }
+    ]
+  },
+  {
+    "tmdb_id": 87108,
+    "name": "Chernobyl",
+    "image_path": "/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+    "synopsis": "Aqui é contada a história da explosão que aconteceu na Usina Nuclear de Chernobyl. Em 1986, na Ucrânia, o acidente dizimou dezenas de pessoas e acabou por se tornar o maior desastre nuclear da história. Enquanto o mundo lamentava o ocorrido, o cientista Valery Legasov (Jared Harris), a física Ulana Khomyuk (Emily Watson) e o vice-presidente do Conselho de Ministros Boris Shcherbina (Stellan Skarsgård) tentam descobrir as causas do acidente.",
+    "seasons": [
+      {
+        "season_number": 1,
+        "name": "Temporada 1",
+        "episodes": [
+          {
+            "episode_number": 1,
+            "name": "1:23:45",
+            "embed_link": null,
+            "mp4_link": null
+          },
+          {
+            "episode_number": 2,
+            "name": "Por Favor, Fique Calmo",
+            "embed_link": null,
+            "mp4_link": null
+          },
+          {
+            "episode_number": 3,
+            "name": "Abra Largo, O Terra",
+            "embed_link": null,
+            "mp4_link": null
+          },
+          {
+            "episode_number": 4,
+            "name": "A Felicidade de Toda Humanidade",
+            "embed_link": null,
+            "mp4_link": null
+          },
+          {
+            "episode_number": 5,
+            "name": "Vichnaya Pamyat",
+            "embed_link": null,
+            "mp4_link": null
+          }
+        ]
+      }
+    ]
+  }
+]
