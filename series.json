@@ -1162,5 +1162,43 @@
     ],
     "first_air_date_str": "2021-06-04",
     "tmdb_status": "Ended"
+  },
+  {
+    "tmdb_id": 77184,
+    "name": "Halo: The Fall of Reach",
+    "image_path": "/11Hs7WmsW2htHTKQrx3nK9Ke8aG.jpg",
+    "synopsis": "Halo conta a dramática história de origem e intrigas por trás do programa SPARTAN que impulsionou personagens como Master Chief e Dr Catherine Halsey ao panteão de “Halo.” A história revela os eventos que uniram Master Chief e o Blue Team, incluindo seu treinmento Spartan e sua ousada missão de contra atacar os Covenant durante os primeiros dias da invasão alienígena...",
+    "seasons": [
+      {
+        "season_number": 1,
+        "name": "Temporada 1",
+        "episodes": [
+          {
+            "episode_number": 1,
+            "name": "Episódio 1",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2015-10-27"
+          },
+          {
+            "episode_number": 2,
+            "name": "Episódio 2",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2015-10-27"
+          },
+          {
+            "episode_number": 3,
+            "name": "Episódio 3",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2015-10-27"
+          }
+        ],
+        "air_date_str": "2015-10-27"
+      }
+    ],
+    "first_air_date_str": "2015-10-27",
+    "tmdb_status": "Ended"
   }
 ]
