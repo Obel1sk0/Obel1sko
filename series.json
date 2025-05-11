@@ -1,1 +1,488 @@
-
+[
+  {
+    "tmdb_id": 85937,
+    "name": "Demon Slayer: Kimetsu no Yaiba",
+    "image_path": "/7Uj6vqmznWQ3w3hpQ1eIY9mMyMw.jpg",
+    "synopsis": "Japão, era Taisho. Tanjiro, um bondoso jovem que ganha a vida vendendo carvão, descobre que sua família foi massacrada por um demônio. E pra piorar, Nezuko, sua irmã mais nova e única sobrevivente, também foi transformada num demônio. Arrasado com esta sombria realidade, Tanjiro decide se tornar um matador de demônios para fazer sua irmã voltar a ser humana, e para matar o demônio que matou sua família. Um triste conto sobre dois irmãos, onde os destinos dos humanos e dos demônios se entrelaçam, começa agora.",
+    "seasons": [
+      {
+        "season_number": 1,
+        "name": "Arco da Vontade Inabalável de Tanjiro Kamado",
+        "episodes": [
+          {
+            "episode_number": 1,
+            "name": "Crueldade",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2019-04-06"
+          },
+          {
+            "episode_number": 2,
+            "name": "Treinador Sakonji Urokodaki",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2019-04-13"
+          },
+          {
+            "episode_number": 3,
+            "name": "Sabito e Makomo",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2019-04-20"
+          },
+          {
+            "episode_number": 4,
+            "name": "Seleção Final",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2019-04-27"
+          },
+          {
+            "episode_number": 5,
+            "name": "Meu Próprio Aço",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2019-05-04"
+          },
+          {
+            "episode_number": 6,
+            "name": "Espadachim que acompanha um demônio",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2019-05-11"
+          },
+          {
+            "episode_number": 7,
+            "name": "Muzan Kibutsuji",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2019-05-18"
+          },
+          {
+            "episode_number": 8,
+            "name": "O Encantador Cheiro de Sangue",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2019-05-25"
+          },
+          {
+            "episode_number": 9,
+            "name": "Demônio Temari e Demônio Flecha",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2019-06-01"
+          },
+          {
+            "episode_number": 10,
+            "name": "Juntos Pra Sempre",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2019-06-08"
+          },
+          {
+            "episode_number": 11,
+            "name": "Mansão Tsuzumi",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2019-06-15"
+          },
+          {
+            "episode_number": 12,
+            "name": "O Javali mostra suas presas, Zenitsu dorme",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2019-06-22"
+          },
+          {
+            "episode_number": 13,
+            "name": "Algo Mais Importante que a Vida",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2019-06-29"
+          },
+          {
+            "episode_number": 14,
+            "name": "A Casa com a Brasão de Glicínias",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2019-07-06"
+          },
+          {
+            "episode_number": 15,
+            "name": "Monte Natagumo",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2019-07-13"
+          },
+          {
+            "episode_number": 16,
+            "name": "Deixa outra pessoa ir na sua frente",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2019-07-20"
+          },
+          {
+            "episode_number": 17,
+            "name": "Seja mestre de uma única coisa",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2019-07-27"
+          },
+          {
+            "episode_number": 18,
+            "name": "Um laço falso",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2019-08-03"
+          },
+          {
+            "episode_number": 19,
+            "name": "Hinokami",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2019-08-10"
+          },
+          {
+            "episode_number": 20,
+            "name": "Família de faz-de-conta",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2019-08-17"
+          },
+          {
+            "episode_number": 21,
+            "name": "Contra as regras do esquadrão",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2019-08-24"
+          },
+          {
+            "episode_number": 22,
+            "name": "O Senhor da Mansão",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2019-08-31"
+          },
+          {
+            "episode_number": 23,
+            "name": "Reunião dos Hashiras",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2019-09-07"
+          },
+          {
+            "episode_number": 24,
+            "name": "Treino de Reabilitação",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2019-09-14"
+          },
+          {
+            "episode_number": 25,
+            "name": "Kanao Tsuyuri, a Tsuguko",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2019-09-21"
+          },
+          {
+            "episode_number": 26,
+            "name": "Uma Nova Missão",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2019-09-28"
+          }
+        ],
+        "air_date_str": "2019-04-03"
+      },
+      {
+        "season_number": 2,
+        "name": "Arco do Trem Infinito",
+        "episodes": [
+          {
+            "episode_number": 1,
+            "name": "O Pilar das Chamas, Kyojuro Rengoku",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2021-10-10"
+          },
+          {
+            "episode_number": 2,
+            "name": "Sono Profundo",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2021-10-17"
+          },
+          {
+            "episode_number": 3,
+            "name": "Se fosse verdade",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2021-10-24"
+          },
+          {
+            "episode_number": 4,
+            "name": "Insulto",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2021-11-07"
+          },
+          {
+            "episode_number": 5,
+            "name": "Em Frente!",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2021-11-14"
+          },
+          {
+            "episode_number": 6,
+            "name": "Akaza",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2021-11-21"
+          },
+          {
+            "episode_number": 7,
+            "name": "Acenda o Fogo do Seu Coração",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2021-11-28"
+          }
+        ],
+        "air_date_str": "2021-10-10"
+      },
+      {
+        "season_number": 3,
+        "name": "Arco do Distrito do Entretenimento",
+        "episodes": [
+          {
+            "episode_number": 1,
+            "name": "Hashira Tengen Uzui, o Pilar do Som",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2021-12-05"
+          },
+          {
+            "episode_number": 2,
+            "name": "Invasão do Distrito de Entretenimento",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2021-12-12"
+          },
+          {
+            "episode_number": 3,
+            "name": "O Que Você Está?",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2021-12-19"
+          },
+          {
+            "episode_number": 4,
+            "name": "Esta noite",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2021-12-26"
+          },
+          {
+            "episode_number": 5,
+            "name": "Vamos bem extravagantes!",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2022-01-02"
+          },
+          {
+            "episode_number": 6,
+            "name": "Memórias Sobrepostas",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2022-01-09"
+          },
+          {
+            "episode_number": 7,
+            "name": "Transformação",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2022-01-16"
+          },
+          {
+            "episode_number": 8,
+            "name": "Reunião",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2022-01-23"
+          },
+          {
+            "episode_number": 9,
+            "name": "Quando eu Derrotar os Onis Superiores",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2022-01-30"
+          },
+          {
+            "episode_number": 10,
+            "name": "Jamais vou desistir",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2022-02-06"
+          },
+          {
+            "episode_number": 11,
+            "name": "Não importa quantas vezes eu precisar renascer",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2022-02-13"
+          }
+        ],
+        "air_date_str": "2021-12-05"
+      },
+      {
+        "season_number": 4,
+        "name": "Arco da Vila dos Ferreiros",
+        "episodes": [
+          {
+            "episode_number": 1,
+            "name": "Sonho de Alguém",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2023-04-09"
+          },
+          {
+            "episode_number": 2,
+            "name": "Yoriichi Tipo Zero",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2023-04-16"
+          },
+          {
+            "episode_number": 3,
+            "name": "Uma Espada de mais de 300 Anos",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2023-04-23"
+          },
+          {
+            "episode_number": 4,
+            "name": "Obrigado, Tokito",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2023-04-30"
+          },
+          {
+            "episode_number": 5,
+            "name": "Espada Vermelha Brilhante",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2023-05-07"
+          },
+          {
+            "episode_number": 6,
+            "name": "Não vai se tornar um Hashira?",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2023-05-14"
+          },
+          {
+            "episode_number": 7,
+            "name": "Vilão Terrível",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2023-05-21"
+          },
+          {
+            "episode_number": 8,
+            "name": "O Mu de Muichiro",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2023-05-28"
+          },
+          {
+            "episode_number": 9,
+            "name": "O Pilar da Névoa, Muichiro Tokito",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2023-06-04"
+          },
+          {
+            "episode_number": 10,
+            "name": "A Pilar do Amor, Mitsuri Kanroji",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2023-06-11"
+          },
+          {
+            "episode_number": 11,
+            "name": "Laços Conectados - Amanhecer e a Primeira Luz",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2023-06-18"
+          }
+        ],
+        "air_date_str": "2023-04-09"
+      },
+      {
+        "season_number": 5,
+        "name": "Arco do Treinamento Hashira",
+        "episodes": [
+          {
+            "episode_number": 1,
+            "name": "Para derrotar Muzan Kibutsuji",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2024-05-12"
+          },
+          {
+            "episode_number": 2,
+            "name": "A dor do Pilar da Água, Giyu Tomioka",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2024-05-19"
+          },
+          {
+            "episode_number": 3,
+            "name": "Tanjiro Completamente Recuperado!! Ele se junta ao Treinamento Hashira",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2024-05-26"
+          },
+          {
+            "episode_number": 4,
+            "name": "Para colocar um sorriso no seu rosto",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2024-06-02"
+          },
+          {
+            "episode_number": 5,
+            "name": "Eu até comi demônios...",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2024-06-09"
+          },
+          {
+            "episode_number": 6,
+            "name": "O mais forte do Esquadrão de Exterminadores",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2024-06-16"
+          },
+          {
+            "episode_number": 7,
+            "name": "Gyomei Himejima, o Pilar das Rochas",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2024-06-23"
+          },
+          {
+            "episode_number": 8,
+            "name": "Os Hashira se Unem",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2024-06-30"
+          }
+        ],
+        "air_date_str": "2024-05-12"
+      }
+    ],
+    "first_air_date_str": "2019-04-06",
+    "tmdb_status": "Ended"
+  }
+]
