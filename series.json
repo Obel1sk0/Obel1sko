@@ -1200,5 +1200,148 @@
     ],
     "first_air_date_str": "2015-10-27",
     "tmdb_status": "Ended"
+  },
+  {
+    "tmdb_id": 52814,
+    "name": "Halo",
+    "image_path": "/4UmNhZCEu8Vt3byMvNxNEPyf8EY.jpg",
+    "synopsis": "Um drama de ficção científica humano e ricamente imaginado, que se passa na colonização interestelar do século XXVI.",
+    "seasons": [
+      {
+        "season_number": 1,
+        "name": "Temporada 1",
+        "episodes": [
+          {
+            "episode_number": 1,
+            "name": "Contato",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2022-03-24"
+          },
+          {
+            "episode_number": 2,
+            "name": "Liberto",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2022-03-31"
+          },
+          {
+            "episode_number": 3,
+            "name": "Emersão",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2022-04-07"
+          },
+          {
+            "episode_number": 4,
+            "name": "De Volta Para Casa",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2022-04-14"
+          },
+          {
+            "episode_number": 5,
+            "name": "Acerto De Contas",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2022-04-21"
+          },
+          {
+            "episode_number": 6,
+            "name": "Consolo",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2022-04-28"
+          },
+          {
+            "episode_number": 7,
+            "name": "Herança",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2022-05-05"
+          },
+          {
+            "episode_number": 8,
+            "name": "Fidelidade",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2022-05-12"
+          },
+          {
+            "episode_number": 9,
+            "name": "Transcendência",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2022-05-19"
+          }
+        ],
+        "air_date_str": "2022-03-24"
+      },
+      {
+        "season_number": 2,
+        "name": "Temporada 2",
+        "episodes": [
+          {
+            "episode_number": 1,
+            "name": "Santuário",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2024-02-08"
+          },
+          {
+            "episode_number": 2,
+            "name": "Sword",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2024-02-08"
+          },
+          {
+            "episode_number": 3,
+            "name": "Visegrad",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2024-02-15"
+          },
+          {
+            "episode_number": 4,
+            "name": "Reach",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2024-02-22"
+          },
+          {
+            "episode_number": 5,
+            "name": "Aleria",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2024-02-29"
+          },
+          {
+            "episode_number": 6,
+            "name": "Onyx",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2024-03-07"
+          },
+          {
+            "episode_number": 7,
+            "name": "Termópilas",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2024-03-14"
+          },
+          {
+            "episode_number": 8,
+            "name": "Halo",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2024-03-21"
+          }
+        ],
+        "air_date_str": "2024-02-08"
+      }
+    ],
+    "first_air_date_str": "2022-03-24",
+    "tmdb_status": "Canceled"
   }
 ]
