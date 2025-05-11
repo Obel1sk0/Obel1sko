@@ -1343,5 +1343,57 @@
     ],
     "first_air_date_str": "2022-03-24",
     "tmdb_status": "Canceled"
+  },
+  {
+    "tmdb_id": 56295,
+    "name": "Halo 4: Em Direção ao Amanhecer",
+    "image_path": "/fYRWEnmvyQ3vkNBfG2Qc8eabDYy.jpg",
+    "synopsis": "Thomas Lasky é um cadete  em uma academia de treinamento militar no século XXVI. Lasky é incerto quanto ao futuro de sua carreira militar, ao se sentir pressionado a seguir os mesmos passos de sua mãe e seu irmão. Lasky e seus colegas de esquadrão são resgatados por Master Chief e, após a morte de Chyler Silva, por quem era apaixonado, Lasky é inspirado por Master Chief a tomar a iniciativa de salvar os cadetes restantes.",
+    "seasons": [
+      {
+        "season_number": 1,
+        "name": "Temporada 1",
+        "episodes": [
+          {
+            "episode_number": 1,
+            "name": "Episódio 1",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2012-10-05"
+          },
+          {
+            "episode_number": 2,
+            "name": "Episódio 2",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2012-10-12"
+          },
+          {
+            "episode_number": 3,
+            "name": "Episódio 3",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2012-10-19"
+          },
+          {
+            "episode_number": 4,
+            "name": "Episódio 4",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2012-10-26"
+          },
+          {
+            "episode_number": 5,
+            "name": "Episódio 5",
+            "embed_link": null,
+            "mp4_link": null,
+            "air_date_str": "2012-11-02"
+          }
+        ],
+        "air_date_str": "2012-10-05"
+      }
+    ],
+    "first_air_date_str": "2012-10-05",
+    "tmdb_status": "Ended"
   }
 ]
