@@ -78,5 +78,15 @@
     "mp4_link": null,
     "release_date_str": "2005-08-06",
     "tmdb_status": null
+  },
+  {
+    "tmdb_id": 118406,
+    "name": "Naruto Shippuden O Filme: Caminho do Ninja",
+    "image_path": "/hyv75xNqvpPqoIBQFyBCoLOJmvh.jpg",
+    "synopsis": "Naruto e seus amigos conseguem afugentar os malvados Akatsuki, que misteriosamente retornaram dos mortos, mas logo uma estranha figura mascarada aparece diante dele.",
+    "embed_link": null,
+    "mp4_link": null,
+    "release_date_str": "2012-07-28",
+    "tmdb_status": null
   }
 ]
