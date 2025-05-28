@@ -5,5 +5,12 @@
     "message": "série lost",
     "createdAt": "2025-05-28T12:44:04.269365",
     "type": "suggestion"
+  },
+  {
+    "id": "1748448265614",
+    "name": "ola mundo",
+    "message": "hello world",
+    "createdAt": "2025-05-28T13:04:25.614966",
+    "type": "suggestion"
   }
 ]
